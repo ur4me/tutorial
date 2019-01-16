@@ -1,2 +1,2 @@
-# tutorial
-tutorial for students
+# Tutorial
+Tutorial for students
